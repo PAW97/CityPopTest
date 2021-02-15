@@ -11,4 +11,11 @@ Install Expo Client by the typing the following in terminal:
 
 npm install -g expo-cli
 
-Thereafter Expo Go was installed on an Iphone to run the app
+Thereafter Expo Go was installed on an Iphone to run the app.
+
+From the project directory in terminal start expo by typing
+
+expo start 
+
+you will find a QR-code which will guide you to the app, (Expo go must be installed on your phone)
+
