@@ -1,6 +1,6 @@
 # CityPopTest
 
-Arbetsprov för WekonwIT:
+
 Skapat en app som med hjälp av GeoNames API presenterar information om befolkningsantalet i valfri stad.
 
 Setup-guide:
